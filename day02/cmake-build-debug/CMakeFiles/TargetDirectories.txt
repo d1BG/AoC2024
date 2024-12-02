@@ -1,0 +1,3 @@
+/home/deni111bg/AdventOfCode2024/day02/cmake-build-debug/CMakeFiles/day02.dir
+/home/deni111bg/AdventOfCode2024/day02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/deni111bg/AdventOfCode2024/day02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
