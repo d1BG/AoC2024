@@ -1,19 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include <regex>
 
 #define MATRIX_SIZE 140
-
-#define HORIZONTAL 0
-#define VERTICAL 1
-#define LTR_DIAG 2
-#define RTL_DIAG 3
-
-struct searchMethod {
-    int offset_x;
-    int offset_y;
-};
 
 int main() {
     int partOneMatches=0;
